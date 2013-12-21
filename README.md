@@ -3,10 +3,11 @@ vagrant-docker
 
 A vagrant provision of a base ubuntu 12.04 (3.8 kernel) with docker already installed
 
-This is just a wrapper for the vagrant docker image at: https://oss-binaries.phusionpassenger.com/vagrant/boxes/
+This is just a wrapper for the vagrant docker image at: 
+https://oss-binaries.phusionpassenger.com/vagrant/boxes/
 
 Installs:
-* lxc-docker (as this is docker-ii)
+* lxc-docker (as this is docker-io)
 * git (so you can clone docker images via git)
 
 Usage
